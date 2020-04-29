@@ -1,6 +1,5 @@
 /***********************************
- * File name: Rearrange.java Author: Wadhwani, Vivek Student ID: 216699613 EECS
- * login ID: vivek121
+
  ************************************/
 
 public class Rearrange {

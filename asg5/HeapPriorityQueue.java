@@ -1,8 +1,5 @@
 /***********************************
-* EECS2011 - Assignment 5
-* Name: Last name, first name
-* Email: Your email address
-* CSE number: Your cse number
+
 ************************************/
 
 /* LAST UPDATED: MARCH 28, 2016, 1:15PM */

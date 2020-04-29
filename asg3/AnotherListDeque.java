@@ -2,8 +2,6 @@ import asg3.DNode;
 import asg3.EmptyDequeException;
 
 /***********************************
- * EECS2011 - Assignment 3 File name: AnotherListDeque.java Author: Wadhwani,
- * Vivek Email: vivek121@my.yorku.ca EECS username: vivek121
  ************************************/
 
 public class AnotherListDeque {

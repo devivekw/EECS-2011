@@ -1,8 +1,7 @@
 package asg3;
 
 /***********************************
- * EECS2011 - Assignment 3 File name: ListDeque.java Author: Wadhwani, Vivek
- * Email: vivek121@my.yorku.ca EECS username: vivek121
+
  ************************************/
 
 public class ListDeque {

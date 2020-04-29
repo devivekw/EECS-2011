@@ -1,6 +1,5 @@
 /***********************************
- * File name: LinkedList.java Author: Wadhwani, Vivek Student ID: 216699613
- * login ID: vivek121
+
  ************************************/
 
 public class LinkedList {

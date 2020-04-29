@@ -1,9 +1,6 @@
 package asg2;
 /***********************************
 * CSE2011 - Assignment 2 
-* File name: match.java
-* Author: Wadhwani, Vivek
-* Email: vivek121@my.yorku.ca
 ************************************/
 
 public class match {

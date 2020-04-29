@@ -3,8 +3,7 @@ package asg3;
 import java.io.FileNotFoundException;
 
 /***********************************
- * EECS2011 - Assignment 3 File name: ArrayDeque.java Author: Wadhwani, Vivek
- * Email: vivek121@my.yorku.ca EECS username: vivek121
+
  ************************************/
 
 public class ArrayDeque {

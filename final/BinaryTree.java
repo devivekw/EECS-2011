@@ -1,6 +1,5 @@
 /***********************************
- * File name: BinaryTree.java Author: Wadhwani, Vivek Student ID: 216699613 EECS
- * login ID: vivek121
+ * File name: BinaryTree.java Author:
  ************************************/
 
 public class BinaryTree {

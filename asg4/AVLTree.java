@@ -1,9 +1,5 @@
 /***********************************
-* EECS2011 - Assignment 4
-* File name: AVLTree.java
-* Author: Last name, first name
-* Email: Your email address
-* CSE number: Your cse number
+
 ************************************/
 
 /** Implementation of an AVL tree. */

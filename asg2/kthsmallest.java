@@ -2,10 +2,6 @@ package asg2;
 import java.util.Arrays;
 /***********************************
 * CSE2011 - Assignment 2
-* File name: kthsmall.java
-* Author: Wadhwani, Vivek
-* Email: vivek121@my.yorku.ca
-* CSE number: 216699613
 ************************************/
 
 
